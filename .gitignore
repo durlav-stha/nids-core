@@ -1,0 +1,16 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python Bytecode
+__pycache__/
+*.pyc
+
+# Local Data Buffers & Network Dumps (Security Sanitization)
+metrics.json
+metrics.json.tmp
+*.log
+*.pcap
+
+# IDE Configuration
+.idea/
