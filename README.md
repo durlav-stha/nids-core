@@ -9,7 +9,7 @@
 
 > **Developed by Durlav Bahadur Shrestha**  
 > BSc (Hons) Cyber Security — Ravensbourne University London  
-> [GitHub: @durlav-stha](https://github.com/durlav-stha) • [LinkedIn: in/durlav-stha](https://linkedin.com/in/durlav-stha)
+> [GitHub: @durlav-stha](https://github.com/durlav-stha) • [LinkedIn: Durlav Bahadur Shrestha](https://www.linkedin.com/in/durlav-bahadur-shrestha-a1a307444/)
 
 ---
 
@@ -221,4 +221,4 @@ nids-core/
 **Durlav Bahadur Shrestha**  
 BSc (Hons) Cyber Security — Ravensbourne University London  
 - GitHub: [@durlav-stha](https://github.com/durlav-stha)  
-- LinkedIn: [in/durlav-stha](https://linkedin.com/in/durlav-stha)
+- LinkedIn: [Durlav Bahadur Shrestha](https://www.linkedin.com/in/durlav-bahadur-shrestha-a1a307444/)
