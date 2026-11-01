@@ -2,15 +2,17 @@
 .venv/
 venv/
 
-# Python Bytecode
+# Python Bytecode & Test Cache
 __pycache__/
 *.pyc
+.pytest_cache/
 
-# Local Data Buffers & Network Dumps (Security Sanitization)
+# IDE & Local Agent Configurations
+.idea/
+.agents/
+
+# Local Data Buffers, Logs & Network Dumps (Security Sanitization)
 metrics.json
 metrics.json.tmp
 *.log
 *.pcap
-
-# IDE Configuration
-.idea/
