@@ -1,4 +1,4 @@
-# nids-core: Autonomous Layer-3/4 Network Intrusion Detection System & SOC Console
+#  nids-core | Autonomous L3/L4 Detection Engine & SOC Console
 
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Capture Engine](https://img.shields.io/badge/Packet%20Capture-Npcap%20%2F%20Scapy-orange.svg)](https://scapy.net/)
